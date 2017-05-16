@@ -1,2 +1,3 @@
 # hello-world
-A Place for Ideas
+
+I like sailing and writing in my spare time.
